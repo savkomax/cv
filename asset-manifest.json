@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.d03723f2.css",
+    "main.js": "/cv/static/js/main.7a80fa7a.js",
+    "static/media/laplandgif.gif": "/cv/static/media/laplandgif.aff9fba17fcb8cb2e547.gif",
+    "static/media/fashiongif.gif": "/cv/static/media/fashiongif.852379c7f7e7a7dda80a.gif",
+    "static/media/lamodagif.gif": "/cv/static/media/lamodagif.fd0bcba0f2f07a46b69b.gif",
+    "static/media/todogif.gif": "/cv/static/media/todogif.ebf20023f9fb1660e84c.gif",
+    "static/media/avatar.jpg": "/cv/static/media/avatar.19317086087345834409.jpg",
+    "static/media/gmail.svg": "/cv/static/media/gmail.8ea2962aeb0f5c8821ad305886402f44.svg",
+    "static/media/instagram_icon.svg": "/cv/static/media/instagram_icon.8ff7ce92ad753b591ed4c1d03e84c026.svg",
+    "static/media/vk_icon.svg": "/cv/static/media/vk_icon.506de7ed26dd081a426ce00488a79dc2.svg",
+    "static/media/telegram_icon.svg": "/cv/static/media/telegram_icon.b0589b5e724dd92cc132ddb6a0e049d9.svg",
+    "index.html": "/cv/index.html",
+    "main.d03723f2.css.map": "/cv/static/css/main.d03723f2.css.map",
+    "main.7a80fa7a.js.map": "/cv/static/js/main.7a80fa7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d03723f2.css",
+    "static/js/main.7a80fa7a.js"
+  ]
+}
